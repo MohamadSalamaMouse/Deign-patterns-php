@@ -1,0 +1,23 @@
+{
+    "name": "user/design_patterns",
+    "description": "code for design patterns in php",
+    "autoload": {
+        "psr-4": {
+            "User\\DesignPatterns\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "MohamedSalamaMouse",
+            "email": "slamtm608@gmail.com"
+        }
+    ],
+    "require": {
+        "phpunit/phpunit": "10"
+    },
+    "autoload": {
+        "psr-4": {
+            "Creational\\": "Creational"
+        }
+    }
+}
